@@ -7,3 +7,9 @@ function subtract(x,y){
 function multiply(x,y){
     return x*y;
 }
+
+
+
+add(3,4);
+subtract(9,3)
+multiply(6,5)
