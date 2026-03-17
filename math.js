@@ -12,5 +12,5 @@ function divide (x,y){
 }
 add(3,4);
 subtract(9,3)
-multiply(6,5)
+multiply(8,5)
 divide(4,2)
