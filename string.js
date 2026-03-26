@@ -12,7 +12,7 @@ function reverse(){
     return rev;
 }
 function trim(){
-   const trimmed = string.trim();
+   const trimmer = string.trim();
 }
 
 capitalise();
