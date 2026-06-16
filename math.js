@@ -14,3 +14,4 @@ add(3,4);
 subtract(9,3)
 multiply(8,5)
 divide(4,2)
+console.log("done");
